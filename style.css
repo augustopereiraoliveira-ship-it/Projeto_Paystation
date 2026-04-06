@@ -1,0 +1,59 @@
+#footer{
+    background-color: rgb(71, 105, 255);
+    width: 100px;
+    height: 100px;
+    margin: 0px;
+}
+
+
+#logo{
+    width: 1px;
+    height: auto;
+    border-radius: 100%;
+    float: left;
+}
+
+
+#container{
+
+}
+
+
+#h1{
+    font-family: "calibri", sans-serif;
+    text-align: center;
+    font-size: ;
+    color: rgb(39, 67, 189);
+}
+
+
+#header{
+    background-color: royalblue;
+    width: 100px;
+    height: 100px;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#body-page{
+    position: ;
+    background-color: rgb(7, 24, 95);
+    width: 100px;
+    height: 100px;
+    margin: 0px;
+}
+
+
+#menu{
+    background-color: rgb(63, 11, 219);
+    width: 100px;
+    height: 100px;
+    margin: 0px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+}
