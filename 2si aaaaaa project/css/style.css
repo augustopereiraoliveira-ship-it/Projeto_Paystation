@@ -1,0 +1,54 @@
+#footer{
+    background-color: rgb(71, 105, 255);
+    width: 1521px;
+    height: 500px;
+    position: relative;
+    inset-block-start: -150px;
+}
+
+
+#background{
+width: 1521px;
+height: 1000px;
+}
+
+
+#logo{
+    width: 500px;
+    height: auto;
+    border-radius: 100%;
+    float: left;
+    position: absolute;
+    inset-inline-start: 550px;
+    inset-block-start: 10px;
+}
+
+#body-page{
+    position: relative;
+    inset-block-start: -150px;
+    background-color: rgb(7, 24, 95);
+    width: 1521px;
+    height: 1000px;
+}
+
+
+#menu{
+    background-color: rgb(63, 11, 219);
+    width: 1521px;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    inset-block-start: -770px;
+}
+
+#logo-2{
+    width: 500px;
+    height: auto;
+    border-radius: 100%;
+    float: left;
+    position: absolute;
+    inset-inline-start: 550px;
+    inset-block-start: 1000px;
+}
